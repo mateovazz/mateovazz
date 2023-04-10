@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mateo Vázquez.
+- 👋 Hola, mi nombre es Mateo.
 - Actualmente cursando Analista en TI en la Universidad ORT Uruguay.
 
 <!---
