@@ -1,5 +1,5 @@
 - 👋 Hola, mi nombre es Mateo.
-Tengo 20 años, actualmente estoy cursando la Carrera Analista en TI en Universidad ORT Uruguay.
+- Tengo 20 años, actualmente estoy cursando la Carrera Analista en TI en Universidad ORT Uruguay.
 Para saber un poco mas de mi y mis conocimientos, adjunto un link de mi cv: https://mnf.red/mateovaz
 
 <!---
