@@ -1,9 +1,9 @@
-- 👋 Hola, mi nombre es Mateo.
-- Tengo 20 años, actualmente estoy cursando la Carrera Analista en TI en Universidad ORT Uruguay.
+- 👋 Hello, my name is Mateo.
+- I'm 20 years old, I'm currently studying IT Analyst at Universidad ORT Uruguay.
 
-- Para saber un poco mas de mi y mis conocimientos, les paso mis redes:
+- To know a little more about me and my knowledge, here are my social networks:
 - LinkedIn: linkedin.com/in/mateovazz
-- Cv: mnf.red/mateovaz
+- Resume: mnf.red/mateovaz
 
 <!---
 mateovazz/mateovazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
